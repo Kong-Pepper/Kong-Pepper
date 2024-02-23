@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kong-Pepper
 - 👀 I’m interested in how to get Mending in Minecraft (Studying Java)
-- 🌱 I’m currently learning Git, Java, HTML, CSS, Bootstrap
+- 🌱 I’m currently learning Java, HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on gaming and web projects
 - 📫 How to reach me: matheus.porto0106@hotmail.com
 - 😄 Pronouns: Any pronouns
